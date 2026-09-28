@@ -1,0 +1,31 @@
+{
+  "goBack": "वापस जाएं", "registered": "पंजीकृत",
+  "prizePool": "कुल पुरस्कार राशि", "entryFee": "प्रवेश शुल्क",
+  "spotsLeft": "सिर्फ़ {{n}} सीटें बाकी", "full": "पंजीकरण पूर्ण",
+  "booked": "{{registered}} / {{max}} बुक",
+  "judge": "निर्णायक", "introVideo": "परिचय वीडियो",
+  "closesIn": "पंजीकरण बंद होने में", "hurry": "जल्दी करें!",
+  "importantDates": "महत्वपूर्ण तिथियां", "registerBefore": "इससे पहले पंजीकरण करें",
+  "submissionStarts": "सबमिशन शुरू", "submissionEnds": "सबमिशन समाप्त", "resultDate": "परिणाम की तिथि",
+  "previousWinners": "पिछले विजेता",
+  "tabAbout": "प्रतियोगिता के बारे में", "tabJudging": "निर्णय के मापदंड", "tabRules": "नियम और पात्रता",
+  "viewMore": "और देखें", "viewLess": "कम देखें",
+  "rewards": "पुरस्कार", "allPositions": "(सभी स्थान)",
+  "winner1": "पहला विजेता", "winner2": "दूसरा विजेता", "winner3": "तीसरा विजेता",
+  "winner4": "चौथा विजेता", "winner5": "पांचवां विजेता", "winner6": "छठा विजेता",
+  "disclaimer": "अस्वीकरण:", "howReceive": "पुरस्कार राशि कैसे मिलेगी?",
+  "watchVideo": "अधिक जानने के लिए वीडियो देखें", "refund": "रिफंड नीति",
+  "securePay": "सुरक्षित भुगतान, संचालित",
+  "referTitle": "रेफर करें और अधिक छूट पाएं", "copyLink": "लिंक कॉपी करें", "referNow": "अभी रेफर करें",
+  "earnPrefix": "हर साइनअप पर आप", "earnSuffix": "कमाएंगे",
+  "hearUsers": "हमारे यूज़र्स की राय", "hearSub": "देखें प्रतिभागी Feedants के बारे में क्या कहते हैं",
+  "adHere": "यहां विज्ञापन", "upload": "सबमिशन अपलोड करें", "registerNow": "अभी रजिस्टर करें", "closed": "पंजीकरण बंद",
+  "uploadSoon": "सबमिशन का फ़्लो यहां आएगा।",
+  "home": "होम", "explore": "एक्सप्लोर", "create": "बनाएं", "competitions": "प्रतियोगिताएं", "profile": "प्रोफ़ाइल",
+  "retry": "फिर कोशिश करें", "registrationFailed": "पंजीकरण असफल",
+  "errors": {
+    "NO_SPOTS": "कोई सीट बाकी नहीं है", "ALREADY_REGISTERED": "आप पहले से पंजीकृत हैं",
+    "REGISTRATION_CLOSED": "पंजीकरण बंद हो चुका है", "NOT_FOUND": "प्रतियोगिता नहीं मिली",
+    "NETWORK": "सर्वर से कनेक्ट नहीं हो पा रहा। इंटरनेट जांचें।", "GENERIC": "कुछ गलत हुआ। कृपया फिर कोशिश करें।"
+  }
+}

@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# React Native
+.gradle/
+build/
+android/.gradle/
+android/app/build/
+ios/Pods/
+
+# Gradle
+**/gradle-*-bin.zip
+**/gradle-*-all.zip
+FeedantsMobile/android/gradle/wrapper/gradle-8.8-bin.zip
+
+# Generated files
+*.apk
+*.aab
+*.ipa
+
+# macOS
+.DS_Store
+
+# Logs
+*.log

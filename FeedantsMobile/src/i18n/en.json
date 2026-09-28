@@ -1,0 +1,31 @@
+{
+  "goBack": "Go back", "registered": "Registered",
+  "prizePool": "Prize Pool", "entryFee": "Entry Fee",
+  "spotsLeft": "Only {{n}} spots left", "full": "Registrations full",
+  "booked": "{{registered}} / {{max}} Booked",
+  "judge": "Judge", "introVideo": "Intro Video",
+  "closesIn": "Registration closes in", "hurry": "Hurry up!",
+  "importantDates": "Important Dates", "registerBefore": "Register Before",
+  "submissionStarts": "Submission Starts", "submissionEnds": "Submission Ends", "resultDate": "Result Date",
+  "previousWinners": "Previous Winners",
+  "tabAbout": "About Competition", "tabJudging": "Judging Parameters", "tabRules": "Rules & Eligibility",
+  "viewMore": "View more", "viewLess": "View less",
+  "rewards": "Rewards", "allPositions": "(All Positions)",
+  "winner1": "1st Winner", "winner2": "2nd Winner", "winner3": "3rd Winner",
+  "winner4": "4th Winner", "winner5": "5th Winner", "winner6": "6th Winner",
+  "disclaimer": "Disclaimer:", "howReceive": "How will you receive prize money?",
+  "watchVideo": "Watch video to know more", "refund": "Refund policy",
+  "securePay": "Secure payments powered by",
+  "referTitle": "Refer & Earn more discount", "copyLink": "Copy Link", "referNow": "Refer Now",
+  "earnPrefix": "You earn", "earnSuffix": "for every signup",
+  "hearUsers": "Hear From Our Users", "hearSub": "See what participants say about Feedants",
+  "adHere": "Ad Here", "upload": "Upload Submission", "registerNow": "Register Now", "closed": "Registrations Closed",
+  "uploadSoon": "Submission flow goes here.",
+  "home": "Home", "explore": "Explore", "create": "Create", "competitions": "Competitions", "profile": "Profile",
+  "retry": "Retry", "registrationFailed": "Registration failed",
+  "errors": {
+    "NO_SPOTS": "No spots left", "ALREADY_REGISTERED": "You are already registered",
+    "REGISTRATION_CLOSED": "Registration is closed", "NOT_FOUND": "Competition not found",
+    "NETWORK": "Cannot reach the server. Check your connection.", "GENERIC": "Something went wrong. Please try again."
+  }
+}
